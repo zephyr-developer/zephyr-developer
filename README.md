@@ -30,7 +30,7 @@ You have finally discovered my Github profile. <br>
 
 </br>
 </br>
-<i>Random dev joke for you:</i><br>
+<i>Random dev joke for you:</i><br><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes">
 
 <!--![](https://komarev.com/ghpvc/?username=anondev-sudo&color=blue)-->
